@@ -1,0 +1,21 @@
+[package]
+name = "roman"
+version = "5.3.0"
+edition = "2021"
+authors = ["Mark Pilgrim (f8dy@diveintopython.org)"]
+description = "Small helper library to convert arabic to roman numerals"
+license = "ZPL-2.1"
+
+[dependencies]
+regex = "1.10"
+clap = { version = "4.4", features = ["derive"] }
+
+[[example]]
+name = "benchmark"
+path = "benches/benchmark.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"

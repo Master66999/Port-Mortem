@@ -1,0 +1,1 @@
+C:\Users\lawan\Downloads\roman-rs\roman-rs\target\debug\libroman.rlib: C:\Users\lawan\Downloads\roman-rs\roman-rs\src\error.rs C:\Users\lawan\Downloads\roman-rs\roman-rs\src\lib.rs C:\Users\lawan\Downloads\roman-rs\roman-rs\src\roman.rs
