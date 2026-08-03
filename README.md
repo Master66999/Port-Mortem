@@ -9,7 +9,9 @@ A safe, ultra-fast, zero-overhead Rust port of Mark Pilgrim's standard Python `r
 
 ## 🎮 Interactive "Click and Play" Demo for Judges
 
-Open [`index.html`](index.html) in any web browser to test the interactive live demo suite:
+**Live Demo URL**: 🌐 [https://master66999.github.io/Port-Mortem/](https://master66999.github.io/Port-Mortem/)
+
+Or open [`index.html`](index.html) locally in any web browser:
 - ⚡ **Bi-Directional Converter**: Real-time conversion & test vectors.
 - 🧪 **Live Fuzz Harness**: Execute 1,000 property fuzz tests directly in your browser.
 - 📊 **Performance Benchmark**: Interactive visual comparison of Python vs Rust throughput.
@@ -19,6 +21,7 @@ Open [`index.html`](index.html) in any web browser to test the interactive live 
 
 ## 01. Public GitHub Repository
 - **Remote**: [`https://github.com/Master66999/Port-Mortem.git`](https://github.com/Master66999/Port-Mortem.git)
+- **Live Demo Site**: [`https://master66999.github.io/Port-Mortem/`](https://master66999.github.io/Port-Mortem/)
 
 ---
 
